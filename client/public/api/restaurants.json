@@ -1,0 +1,89 @@
+[
+  {
+    "id": "lidos",
+    "name": "Lido's",
+    "address": "701 Main St.",
+    "hours": "12:00 am - 12:00 pm",
+    "notes": ["8.1 Barstool 1 Slice Rating!"],
+    "latitude": "40.901265",
+    "longitude": "-74.041727"
+  },
+
+  {
+    "id": "manna",
+    "name": "White Manna",
+    "address": "358 River St.",
+    "hours": "11:00 am - 9:00pm",
+    "notes": ["Ranked on America's best burgers list."],
+    "latitude": "40.88918486330172",
+    "longitude": "-74.03845076689531"
+  },
+
+  {
+    "id": "macs",
+    "name": "Mac's West Indian ",
+    "address": "207 Central Ave",
+    "hours": "7:00am - 7:00pm",
+    "notes": ["First Jamaican Restaurant in Hackensack, NJ."],
+    "latitude": "40.88797235318213",
+    "longitude": "-74.050025032838"
+  },
+
+  {
+    "id": "maggs",
+    "name": "Maggianos Little Italy",
+    "address": "70 Riverside Square Mall",
+    "hours": "11:30am - 11:00pm",
+    "notes": [
+      "Semi-upscale chain for classic Italian fare served family-style in a relaxed, polished space."
+    ],
+    "latitude": "40.90761727901807",
+    "longitude": "-74.030657121954"
+  },
+
+  {
+    "id": "picco",
+    "name": "The Picco Tavern",
+    "address": "160 Prospect Ave",
+    "hours": "12:00pm - 3:00pm / 5:00pm - 9:00pm",
+    "notes": [
+      "Spacious destination with a piano bar, on-site deli & dining room serving classic Italian cuisine."
+    ],
+    "latitude": "40.88835728262767",
+    "longitude": "-74.05539735212474"
+  },
+
+  {
+    "id": "noches",
+    "name": "Noches De Colombia",
+    "address": "382 Main St.",
+    "hours": "7:00am - 11:00pm",
+    "notes": ["LGBTQ+ friendly!"],
+    "latitude": "40.89047813879016",
+    "longitude": "-74.03939011026318"
+  },
+
+  {
+    "id": "chit",
+    "name": "Chit Chat Diner",
+    "address": "515 Essex St.",
+    "hours": "24 Hours",
+    "notes": [
+      "Beyond-the-basics American fare served 24/7 in a modern diner setting."
+    ],
+    "latitude": "40.88670810132261",
+    "longitude": "-74.0643679957975"
+  },
+
+  {
+    "id": "veggie",
+    "name": "Veggie Heaven",
+    "address": "473 Cedar Ln.",
+    "hours": "11:15am - 10:00pm",
+    "notes": [
+      "A huge menu of Asian vegan/kosher dishes, plus desserts, are served in a spacious, casual setting."
+    ],
+    "latitude": "40.8895522441428",
+    "longitude": "-74.02260247758349"
+  }
+]
