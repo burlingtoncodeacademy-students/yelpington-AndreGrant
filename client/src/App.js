@@ -11,6 +11,8 @@ import Macs from "./components/Macs.js";
 import Chit from "./components/Chit.js";
 import Home from "./components/Home.js";
 
+// the function below adds links to the pages for the corresponding restuarnats
+
 function App() {
   return (
     <>
