@@ -13,7 +13,7 @@ function Map(props) {
   let veggie = [40.8895522441428, -74.02260247758349];
 
   return (
-    <div>
+    <div id="map">
       <MapContainer
         center={[40.885933, -74.043474]}
         zoom={14}
