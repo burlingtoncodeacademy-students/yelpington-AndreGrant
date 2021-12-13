@@ -3,6 +3,7 @@ import { MapContainer, TileLayer, Marker } from "react-leaflet";
 // import L from "react-leaflet";
 
 function Map(props) {
+  // sets each restaraunt coords as a location for the pins to appear
   let lidos = [40.901265, -74.041727];
   let manna = [40.88918486330172, -74.03845076689531];
   let macs = [40.88797235318213, -74.050025032838];
@@ -13,6 +14,7 @@ function Map(props) {
   let veggie = [40.8895522441428, -74.02260247758349];
 
   return (
+    //presets for map that appears on the home page
     <div id="map">
       <MapContainer
         center={[40.885933, -74.043474]}
@@ -23,9 +25,11 @@ function Map(props) {
         doubleClickZoom={false}
       >
         <TileLayer
+          //map imported that is used for main map
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
           attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         />
+        //all makers for each restuarant
         <Marker position={lidos}></Marker>
         <Marker position={manna}></Marker>
         <Marker position={macs}></Marker>

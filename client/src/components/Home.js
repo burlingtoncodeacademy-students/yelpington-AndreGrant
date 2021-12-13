@@ -5,7 +5,9 @@ import "../App.css";
 export default function Home() {
   return (
     <>
-      <h1 id="sackington-header">Sackington!</h1>
+      <a href="/">
+        <h1 id="sackington-header">Sackington!</h1>
+      </a>
       <div>
         <h2 id="restaurant-names">
           {/* links to corresponding  pages */}

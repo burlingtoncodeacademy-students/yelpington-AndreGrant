@@ -1,6 +1,9 @@
+//imports css styling
 import "./App.css";
 
+//imports ability to link from react router dom
 import { BrowserRouter, Route, Routes } from "react-router-dom";
+//imports all components for each restaurants
 import Lidos from "./components/Lidos.js";
 import Manna from "./components/Manna.js";
 import Maggs from "./components/Maggs.js";
@@ -11,7 +14,7 @@ import Macs from "./components/Macs.js";
 import Chit from "./components/Chit.js";
 import Home from "./components/Home.js";
 
-// the function below adds links to the pages for the corresponding restuarnats
+// the function below adds links to the pages for the corresponding restaurants
 
 function App() {
   return (
